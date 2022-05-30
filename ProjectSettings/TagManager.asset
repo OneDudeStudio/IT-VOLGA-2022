@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 3944294443
+    locked: 0
+  - name: Road
+    uniqueID: 1611666015
+    locked: 0
+  - name: Decor
+    uniqueID: 2291504453
+    locked: 0
+  - name: Building
+    uniqueID: 958022819
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overpass
+    uniqueID: 2126117353
+    locked: 0
+  - name: Particles
+    uniqueID: 565599261
+    locked: 0
+  - name: Canvas
+    uniqueID: 3142275701
+    locked: 0
